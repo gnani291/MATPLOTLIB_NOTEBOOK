@@ -99,7 +99,7 @@ plt.bar()
 
 ---
 
-## Histograms
+# Histograms
 
 Understanding data distributions.
 
